@@ -1,0 +1,26 @@
+{
+  "name": "turkish-time",
+  "version": "0.0.0",
+  "description": "Parses times written in simple Turkish to unix time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "dependencies": {
+    "english-time": "*"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "time",
+    "relative",
+    "turkish"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/turkish-time.git",
+    "type": "git"
+  },
+  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
