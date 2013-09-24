@@ -24,6 +24,8 @@ time('3h, 5g 6sa')
 // => 2268000000
 ```
 
+Usage Example: [http://requirebin.com/embed?gist=6680955](http://requirebin.com/embed?gist=6680955)
+
 ## Install
 
 ```bash
